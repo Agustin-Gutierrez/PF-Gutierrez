@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Pre-entrega 3 - Proyecto de Desarrollo Web
 
 Este es el repositorio para la tercera pre-entrega del curso de "Desarrollo Web". La consigna de la entrega es:
@@ -41,3 +42,7 @@ La entrega se cargó en un repositorio público de GitHub. Se pueden encontrar l
 
 ## Creador
 Este proyecto fue creado por Agustín Gutiérrez para el curso de Desarrollo Web.
+=======
+# PF-Gutierrez
+Proyecto final del curso de Desarrollo Web de Coderhouse - Gutierrez A
+>>>>>>> bc97705e9bcf8dc583e00c828fe81bb198c4f6ba
