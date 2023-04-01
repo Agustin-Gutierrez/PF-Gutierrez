@@ -1,16 +1,29 @@
-<<<<<<< HEAD
-# Pre-entrega 3 - Proyecto de Desarrollo Web
+# Entrega final - Proyecto de Desarrollo Web
 
-Este es el repositorio para la tercera pre-entrega del curso de "Desarrollo Web". La consigna de la entrega es:
+Este es el repositorio para la entrega final del curso de "Desarrollo Web". La consigna de la entrega es:
 
-✓ El proyecto completo deberá visibilizarse de manera correcta en dispositivos mobile y desktop. El mismo deberá estar configurado y con código SASS aplicado. Además, deberán mostrar uso de la correcta aplicación del SEO. 
+✓ Deberás entregar la versión final de tu sitio cargada al servidor con acceso desde la web,
+aplicando cada una de las características vistas en el transcurso del curso: HTML, CSS,
+aplicación de framework y SEO, correspondiente a la entrega final de tu proyecto. 
 
-Objetivos generales:
-- Realizar la estructura final de la web.
-- Efectuar el estilo final de la web.
-- Realizar una correcta implementación de SASS.
-- Aplicar técnicas de SEO.
-- Generar la carga en un repositorio en GitHub.
+Se debe entregar
+✓ Estructura final de la web: Respetando los
+criterios trabajados respecto a legibilidad,
+adaptación al framework, uso de etiquetas y
+prácticas de SEO.
+Formato: Archivos HTML
+
+✓ Estilo final de la web: Aplicando los criterios
+trabajados respecto a estructura visual,
+diseño atractivo y responsive, y reciclado de
+código.
+Formato: Archivos CSS + SCSS.
+
+✓ Subida al servidor: Utilizar Infinity Free o
+cualquier servicio de hosting para poner el
+sitio web online.
+Formato: Link al sitio web cargado en el
+servidor
 
 ## Tecnologías Utilizadas
 En este proyecto se utilizaron las siguientes tecnologías:
@@ -33,16 +46,6 @@ Se trasladaron los estilos creados en CSS a SCSS.
 
 Se implementaron técnicas de SEO como meta tags description, keywords, favicon y completar los alts de las imágenes.
 
-## Carga de Entrega
-
-La entrega se cargó en un repositorio público de GitHub. Se pueden encontrar la página en la siguiente ruta:
-
-* https://github.com/Agustin-Gutierrez/PreEntrega3-Gutierrez
-* https://agustin-gutierrez.github.io/PreEntrega3-Gutierrez/
-
 ## Creador
 Este proyecto fue creado por Agustín Gutiérrez para el curso de Desarrollo Web.
 =======
-# PF-Gutierrez
-Proyecto final del curso de Desarrollo Web de Coderhouse - Gutierrez A
->>>>>>> bc97705e9bcf8dc583e00c828fe81bb198c4f6ba
