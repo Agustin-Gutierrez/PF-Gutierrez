@@ -47,5 +47,6 @@ Se trasladaron los estilos creados en CSS a SCSS.
 Se implementaron técnicas de SEO como meta tags description, keywords, favicon y completar los alts de las imágenes.
 
 ## Creador
+
 Este proyecto fue creado por Agustín Gutiérrez para el curso de Desarrollo Web.
 =======
