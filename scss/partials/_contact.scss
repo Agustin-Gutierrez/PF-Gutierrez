@@ -1,17 +1,18 @@
+@use './variables';
 /* Estilo para el Contacto */
 .descripcion-contacto{
-    background-color: #383838;
+    background-color: variables.$background-color;
     width: 100%;
-    color:azure;
+    color:variables.$body-color;
     text-align: center;
 
     h1{
-        font-size: 55px;
+        font-size: variables.$font-size-h1;
         padding-top: 2%;
     }
 
     p{
-        font-size: 20px;
+        font-size: variables.$font-size-p;
         padding-top: 1.5%;
         padding-bottom: 2%;
         padding-left: 5%;
@@ -26,13 +27,13 @@
     padding-right: 5%;
     
     h1{
-        font-size: 55px;
+        font-size: variables.$font-size-h1;
         margin-bottom: 2%;
     }
 
     p{
         font-size: 20px;
-        margin-left: 5%;
+        margin-left: 0%;
     }
     
     .enviar{

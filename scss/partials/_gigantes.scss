@@ -1,18 +1,19 @@
+@use './variables';
 /* Estilo para Los Gigantes */
 
 .descripcion-gigantes{
-    background-color: #383838;
+    background-color: variables.$background-color;
     width: 100%;
-    color:azure;
+    color:variables.$body-color;
     text-align: center;
 
     h1{
-        font-size: 55px;
+        font-size: variables.$font-size-h1;
         padding-top: 2%;
     }
 
     p{
-        font-size: 20px;
+        font-size: 15px;
         padding-top: 1.5%;
         padding-bottom: 2%;
         padding-left: 5%;
@@ -29,21 +30,21 @@
 
 /* Start: Video Responsive */
 .video-responsive {
-    overflow:hidden;
-    margin-left:25%;
-    padding-bottom:25%;
-    position:relative;
-    height:0;
-    text-align: center;
-    margin-top: 3%;
-    margin-bottom: 3%;
+    overflow: hidden;
+    padding-bottom: 56.25%; /* Proporción de aspecto 16:9 */
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 5%;
+    position: relative;
+    height: 0;
+}
 
-    iframe{
-        left:0;
-        top:0;
-        height:100%;
-        width:70%;
-        position:absolute;
-    }
+.video-responsive iframe {
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    display: block;
 }
 /* End: Video Responsive */
