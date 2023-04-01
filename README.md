@@ -49,4 +49,3 @@ Se implementaron técnicas de SEO como meta tags description, keywords, favicon 
 ## Creador
 
 Este proyecto fue creado por Agustín Gutiérrez para el curso de Desarrollo Web.
-=======
